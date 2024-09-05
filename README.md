@@ -1,3 +1,2 @@
 # Self-Ordering-Kiosk
-# Admin Page 
-https://self-order-kiosk-app.onrender.com/
+# Admin Page https://self-order-kiosk-app.onrender.com/admin
